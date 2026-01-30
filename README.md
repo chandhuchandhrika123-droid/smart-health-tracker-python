@@ -19,6 +19,10 @@ Calculate a daily health score ❤️ and store records safely 💾
 - File Handling
 
 ## ▶️ How to Run
-```bash
+1. Install Python(version 3)
 
-## Author Chandrika
+## 👩‍💻 Author 
+**Chandrika (Chandu)**
+
+
+
